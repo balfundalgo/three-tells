@@ -1,0 +1,5 @@
+customtkinter==5.2.2
+requests>=2.31
+websocket-client>=1.7
+pyinstaller>=6.3
+pytest>=8.0

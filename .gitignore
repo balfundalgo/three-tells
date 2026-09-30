@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+ttt_settings.json
+ttt_state_*.json
+ttt_activity_*.log
+ttt_trades_*.csv
+ttt_scrip_*.csv
+.venv/
+.DS_Store
